@@ -1,3 +1,7 @@
+# Readme
+
+This is a sample Angular 5 application 
+
 # Ng5
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.4.
